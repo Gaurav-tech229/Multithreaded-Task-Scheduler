@@ -20,7 +20,7 @@ A C++ project implementing a multithreaded task scheduler with priority-based sc
 
 ### Prerequisites
 
-- C++17 or later
+- C++11 or later
 - Visual Studio or any C++ IDE supporting multithreading
 - CMake (optional, for cross-platform builds)
 
