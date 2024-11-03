@@ -1,0 +1,25 @@
+# Ignore build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# Ignore Visual Studio files
+*.user
+*.opensdf
+*.sdf
+*.cache
+*.log
+
+# Ignore temporary files
+*.obj
+*.exe
+*.out
+*.dll
+*.lib
+*.pch
+
+# Ignore IDE directories
+.vscode/
+.idea/
